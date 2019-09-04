@@ -8,8 +8,9 @@
 8. commit 55f413c8ccfbd86994e0b1b4bfb87d8e09637820 (HEAD -> master)
 Author: Seth Lecander <sl503819@ohio.edu>
 Date:   Wed Sep 4 16:22:33 2019 -0400;
-9. Your branch is up to date with 'origin/master'.
-<<<<<<< HEAD
-10. 
-=======
->>>>>>> 4cf85123e7018e3630e27b99f456a9daad2d469b
+9. Your branch is up to date with 'origin/master'.;
+10. Yes;
+11. It updates answers.md;
+12. Yes;
+13. .  ..  git-lab	git-lab-2
+
