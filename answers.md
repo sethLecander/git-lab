@@ -9,4 +9,7 @@
 Author: Seth Lecander <sl503819@ohio.edu>
 Date:   Wed Sep 4 16:22:33 2019 -0400;
 9. Your branch is up to date with 'origin/master'.
+<<<<<<< HEAD
 10. 
+=======
+>>>>>>> 4cf85123e7018e3630e27b99f456a9daad2d469b
